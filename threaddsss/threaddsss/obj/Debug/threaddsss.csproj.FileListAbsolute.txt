@@ -1,0 +1,9 @@
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\bin\Debug\threaddsss.exe.config
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\bin\Debug\threaddsss.exe
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\bin\Debug\threaddsss.pdb
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.csprojResolveAssemblyReference.cache
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.Form1.resources
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.Properties.Resources.resources
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.csproj.GenerateResource.Cache
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.exe
+c:\users\ramunasr\documents\visual studio 2015\Projects\threaddsss\threaddsss\obj\Debug\threaddsss.pdb
